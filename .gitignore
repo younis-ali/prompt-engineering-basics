@@ -2,3 +2,4 @@
 llm-venv/
 config.json
 notebooks/sample_data/
+notebooks/build/
