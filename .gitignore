@@ -1,5 +1,5 @@
 .ipynb_checkpoints/
 llm-venv/
-config.json
+resources/
 notebooks/sample_data/
 notebooks/build/
